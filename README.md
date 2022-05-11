@@ -6,10 +6,12 @@ Fractal on c
 ## Running
 Clone this repository:
 
-bash
+```bash
 git clone https://github.com/LeskinSergey/so_long.git
+```
 Run the app:
-bash
+```bash
 cd so_long
 make
 ./so_long map.ber
+```
