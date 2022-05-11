@@ -1,7 +1,5 @@
-This project is a small 2D game with minilibx.
-
 # so_long
-Fractal on c
+This project is a small 2D game with minilibx.
 
 ## Running
 Clone this repository:
